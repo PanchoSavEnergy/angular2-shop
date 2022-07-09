@@ -3,6 +3,7 @@
 Esta es una implementación de una página e-commerce con un navegador y un carro de compra incluidos, construida en Angular.
 
 **Demo personal:** [panchosavenergy.github.io/angular2-shop](https://panchosavenergy.github.io/angular2-shop/)
+
 **Demo original:** [carlosroso.com/angular2-shop](http://carlosroso.com/angular2-shop/)
 
 ## Características
